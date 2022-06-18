@@ -1,7 +1,7 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihslx&label=Profile%20views&color=0e75b6&style=flat" alt="salihslx" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+salih+slx;A+UI-UX+Designer;A+MERN+Stack+Developer;A+Frontend+Devloper;A+flutter+Devloper;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+SALIH+A;A+UI-UX+Designer;A+MERN+Stack+Developer;A+Frontend+Devloper;A+flutter+Devloper;)](https://git.io/typing-svg)
 <!-- 
 <h3 align="left">Connect with me:</h3> -->
 <p align="left">
