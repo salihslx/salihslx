@@ -37,9 +37,9 @@
 
 - 👨‍💻 All of my open projects are available: [here](https://github.com/salihslx)
 
-- 💬 Ask me about: **MERN ,UI-UX**
+- 💬 Ask me about: **MERN ,UI-UX,FLUTTER**
 
-- ⚡ Fun fact: **I am tea ☕ Positive**
+- ⚡ Fun fact: **I am a editor**
 
 
 <h3 align="left">Languages and Tools:</h3>
