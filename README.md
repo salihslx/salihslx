@@ -53,7 +53,7 @@
 
 <h4 align="left">Support:</h4>
 <h6 align="center">Show your support by starring ⭐ some of the repositories  ! </h6>
-<p><a href="http://salihslx.me/"> WEBSITE:SALIHSLX.ME <img align="left" src="https://avatars.githubusercontent.com/u/100024759?v=4" height="120" width="180" alt="salihslx" /></a>
+<p><a href="https://salihslx.me/"> WEBSITE:SALIHSLX.ME <img align="left" src="https://avatars.githubusercontent.com/u/100024759?v=4" height="120" width="180" alt="salihslx" /></a>
 </p>
 
 
