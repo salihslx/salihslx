@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **WEBSITES&MOBILE APLCATIONS&WEB.APP**
 
 - 📫 How to reach me **salihsalislx@gmail.com**
 
