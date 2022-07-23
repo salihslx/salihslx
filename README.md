@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **salihsalislx@gmail.com**
 
-- Contact Number : 9061897902
+- Contact Number : **9061897902**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
