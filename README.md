@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SALIH A</h1>
 <h3 align="center">PASSINATE FRONT-END DEVELOPER& UI-UX DESIGNER &FLUTTER DEVELOPER</h3>
 
-- 🌱 I’m currently learning **REACT.JS,REACT NATIVE,ANGULAR.JS, FLUTTER **
+- 🌱 I’m currently learning **REACT.JS,REACT NATIVE,ANGULAR.JS,FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
