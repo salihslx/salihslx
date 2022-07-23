@@ -5,9 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **REACT,FLUTTER**
 
 - 📫 How to reach me **salihsalislx@gmail.com**
+
+- Contact Number : 9061897902
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
