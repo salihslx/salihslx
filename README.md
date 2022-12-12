@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
+- <b>CEO & Founder of ZICO IT Solutions<a href="https://effortless-peony-ed130e.netlify.app/"></a> </b>
+
 - 💬 Ask me about **REACT,FLUTTER**
 
 - 📫 How to reach me **salihsalislx@gmail.com**
