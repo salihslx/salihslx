@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
-- ![image](https://user-images.githubusercontent.com/100024759/207009784-2eea1f4c-735b-49dd-b940-7f9990301910.png)
-   CEO & Founder of ZICO IT Solutions at [https://effortless-peony-ed130e.netlify.app/](https://effortless-peony-ed130e.netlify.app/)
+- CEO & Founder of <b>ZICO IT Solutions</b> at [https://effortless-peony-ed130e.netlify.app/](https://effortless-peony-ed130e.netlify.app/)
 
 - 💬 Ask me about **REACT,FLUTTER**
 
