@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
-- CEO & Founder of <b>ZICO IT Solutions</b> at [https://effortless-peony-ed130e.netlify.app/](https://effortless-peony-ed130e.netlify.app/)
+- CEO & Founder of <b>WEBX.com</b> at [https://effortless-peony-ed130e.netlify.app/](https://effortless-peony-ed130e.netlify.app/)
 
 - 💬 Ask me about **Web Development,Android Development ,UI-UX Designing**
 
