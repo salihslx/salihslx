@@ -53,7 +53,7 @@
 
 
 
-## 📈 GitHub Stats 
+<b> 📈 GitHub Stats <b/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=salihslx)](https://github.com/salihslx)
 
