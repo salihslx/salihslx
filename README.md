@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SALIH A</h1>
-<h3 align="center"> FRONT-END DEVELOPER & UI-UX DESIGNER </h3>
+<h1 align="left"> 👨‍💻 I'm SALIH A</h1>
+<h3 align="left"> FRONT-END DEVELOPER & UI-UX DESIGNER </h3>
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
 
