@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm SALIH A</h1>
-<h3 align="center"> FRONT-END DEVELOPER& UI-UX DESIGNER </h3>
-
-- 🌱 I’m currently learning **REACT.JS,REACT NATIVE,ANGULAR.JS,FLUTTER**
+<h3 align="center"> FRONT-END DEVELOPER & UI-UX DESIGNER </h3>
 
 - 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
-
-- CEO & Founder of <b>WEBX.com</b> at [https://effortless-peony-ed130e.netlify.app/](https://effortless-peony-ed130e.netlify.app/)
-
-- 💬 Ask me about **Web Development,Android Development ,UI-UX Designing**
 
 - 📫 How to reach me **salihsalislx@gmail.com**
 
