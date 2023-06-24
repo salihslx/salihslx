@@ -1,11 +1,4 @@
-<h1 align="left"> 👨‍💻 I'm SALIH A</h1>
-<h3 align="left"> FRONT-END DEVELOPER & UI-UX DESIGNER </h3>
 
-- 👨‍💻 All of my projects are available at [https://salihslx.me](https://salihslx.me)
-
-- 📫 How to reach me **salihsalislx@gmail.com**
-
-- Contact Number : **9061897902**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
