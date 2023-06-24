@@ -18,7 +18,7 @@
 
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-React-native-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=CC342D)
 
 </br>
