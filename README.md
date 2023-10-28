@@ -1,6 +1,3 @@
-
-<a href="https://salihslx.bio.link"> Click Here <a/>
-
 <b> Technical Skills<b/>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -27,7 +24,6 @@
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
 
 
 <b> 📈 GitHub Stats <b/>
