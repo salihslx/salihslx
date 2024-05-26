@@ -4,9 +4,8 @@
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-vite-informational?style=flat&logo=vite&color=61DAFB)
-![](https://img.shields.io/badge/Code-vite-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=E34F26)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=ReactNative&color=336791)
 ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=CC342D)
 
 </br>
